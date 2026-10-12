@@ -75,7 +75,7 @@ I'm **Kaleb Kebede**, a Software Engineering student at **Wachemo University** w
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=kaleb-kebede&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleb-kebede&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaleb-kebede&theme=tokyonight&hide_border=true&background=0f172a" />
+<img src="https://streak-stats.demolab.com/?user=kaleb-kebede&theme=tokyonight&hide_border=true&background=0f172a" />
 
 </div>
 
